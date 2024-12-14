@@ -1,6 +1,7 @@
 ###  UDAY KUMAR POOJAR
-##DATA SCIENTIST
+##SOFTWARE DEVELOPER AND CAE ENGINEER
 - Application developer
+- Mechanical Engineer
 
 
 <!--
